@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Resume by nimit1997</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Resume</h1>
+      <h2 class="project-tagline"></h2>
+      <a href="https://github.com/nimit1997/NimPro" class="btn">View on GitHub</a>
+      <a href="https://github.com/nimit1997/NimPro/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/nimit1997/NimPro/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <p><strong>Nimit Kapadia</strong><br>
+<strong>Electrical Engineering Dual Degree (B.Tech + M.Tech) Programme</strong><br>
+<strong>Indian Institute of Technology Bombay</strong><br>
+<strong>Specialization : Communications and Signal Processing</strong><br>
+DOB : 2nd November, 1997<br>
+Contact : +91 7045570820<br>
+Email-Id : <a href="mailto:nimitkpd1@gmail.com">nimitkpd1@gmail.com</a>, <a href="mailto:150110061@iitb.ac.in">150110061@iitb.ac.in</a></p>
+
+<h1>
+<a id="educational-qualifications" class="anchor" href="#educational-qualifications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Educational Qualifications</h1>
+
+<table>
+<thead>
+<tr>
+<th align="center">Examination</th>
+<th align="center">Institute</th>
+<th align="center">Year</th>
+<th align="center">Grades</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Third Year Engineering</td>
+<td align="center">IIT Bombay</td>
+<td align="center">2017</td>
+<td align="center">CPI 8.56</td>
+</tr>
+<tr>
+<td align="center">Intermediate/+2</td>
+<td align="center">NGFPA, Indore</td>
+<td align="center">2015</td>
+<td align="center">93.40%</td>
+</tr>
+<tr>
+<td align="center">Matriculation</td>
+<td align="center">St. Xavier's High School, Surat</td>
+<td align="center">2013</td>
+<td align="center">91.67%</td>
+</tr>
+</tbody>
+</table>
+
+<h1>
+<a id="scholastic-achievements" class="anchor" href="#scholastic-achievements" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Scholastic Achievements</h1>
+
+<ul>
+<li>Among the top 0.1% students in the Joint Entrance Examination (JEE) out of 15,00,000 candidates who appeared for the exam. (2015)</li>
+<li>Among top 1% students selected in Indian National Chemistry Olympiad (INChO). (2015)</li>
+<li>Among top 1% students selected in Indian National Astronomy Olympiad (INAO). (2015)</li>
+<li>Secured 99.77 percentile rank in Mathematics in Student Talent Search Test conducted by Gujarat Secondary and Higher Secondary Education Board (GSEB). (2011)</li>
+<li>Awarded Special Prize in Maharashtra Talent Search Examination (MTSE) for commendable performance. (2011)</li>
+<li>Awarded Scholarship in the Max New York Life Igenius Exam for meritorious performance for two consecutive years. (2010 and 2011)</li>
+<li>Reached 2nd round in Australian National Chemistry Quiz in Junior Division with Distinction performance in the 1st round, conducted by Royal Australian Chemical Institute. (2011)</li>
+</ul>
+
+<h1>
+<a id="projects-undertaken" class="anchor" href="#projects-undertaken" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Projects Undertaken</h1>
+
+<ol>
+<li><p><strong>Advanced Fourier Transform Research Project</strong>(<em>May</em> 2017-<em>Jun</em>)<br>
+<em>Electrical Engineering Department, IIT-Bombay</em><br>
+-Research on Fractional Fourier Transform (FrFT) and Generalized Time Frequency Transform (GTFT) based on different eigenvalue problems.<br>
+-Designed a MATLAB code for Synthetic Aperture Radar (SAR) to detect a moving target on ground with different radial and tangential velocity as well as acceleration.<br>
+<li><p><strong>Velocity of a moving object using Photodarlington</strong>(<em>Oct</em> 2016)<br>
+<em>Course Project, IIT-Bombay</em><br>
+-Built a circuit that allows to compute the velocity of a moving object using photodarlingtons.<br>
+-Used RS latches to start and stop the timer count as and when the IR light got blocked by the moving object.<br>
+-Used RC circuit as a timer to get accurate readings.</p></li>
+<li><p><strong>Music Synthesizer on Scilab</strong> (<em>March</em> 2017)<br>
+<em>Course Project, IIT-Bombay</em><br>
+-Developed music synthesizer program based on sampling & implemented features of adjustable timbre. </p></li>
+<li><p><strong>Magnus Plane | Institute Technical Summer Project (ITSP)</strong> (<em>May</em> 2016-<em>Jun</em> 2016)<br>
+<em>Aero modelling Club, STAB, IIT-Bombay</em><br>
+-Designed and conceptualized a plane which flies in the air due to magnus effect generated
+by two pair of rotating cylinders.  </p></li>
+<li><p><strong>Wearable device for easy ECG measurement |TATA Pro Engage Project</strong> (<em>Jul’</em> 2016-present)<br>
+<em>IIT-Bombay</em><br>
+-Innovative way of monitoring ECG and other heart related information.<br>
+-A smart way to capture patients ECG and report it to a cloud platform.<br>
+-Execute a doctor's login portal with registration number validation to maintain records.  </p></li>
+<li><p><strong>Water Harvesting Project | Inter-school Science Project Competition</strong> (2012)<br>
+<em>St. Xavier’s High School, Surat</em><br>
+-Designed a cost effective working model to utilize the rainwater effectively and storing it for
+daily chores and future use.<br>
+-Main motto : Conservation of Natural Resources.<br>
+-Secured second position as a Student Scientist in Interschool Project Competition.  </p></li>
+<li><p><strong>Oil Spill Management Project | Inter-school Science Project Competition</strong> (2011)<br>
+<em>St. Xavier’s High School, Surat</em><br>
+-Designed a cost effective waste to best model to remove spilled oil from large water bodies.<br>
+-Based on the viscosity difference principle of oil and water.</p></li>
+</ol>
+
+<h1>
+<a id="key-courses-undertaken" class="anchor" href="#key-courses-undertaken" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Key Courses Undertaken</h1>
+
+<ul>
+<li>Signals and Systems</li>
+<li>Analog Circuits</li>
+<li>Digital Systems</li>
+<li>Power Electronics and Machines</li>
+<li>Electrical Network theory</li>
+<li>Electronic Devices</li>
+<li>Quantum Physics</li>
+<li>Electricity and Magnetism</li>
+<li>Introduction to Programming(C++)</li>
+<li>Introduction to Biosciences and Bioengineering</li>
+<li>Complex Analysis</li>
+<li>Differential Equations</li>
+<li>Multi-variable and Vector Calculus</li>
+<li>Linear Algebra</li>
+<li>Data Analysis and Interpretation</li>
+<li>Economics</li>
+</ul>
+
+<h1>
+<a id="technical-skills" class="anchor" href="#technical-skills" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Technical Skills</h1>
+
+<ul>
+<li>C/C++, Python programming skills, Scilab, MATLAB</li>
+<li>Intermediate level programmer in AutoCAD and Solidworks</li>
+<li>Comfortable with both Linux and Windows OS</li>
+<li>Proficiency in MS Word, MS Excel, HTML and NgSpice Simulation software, Quartus</li>
+</ul>
+
+<h1>
+<a id="extra-curriculars" class="anchor" href="#extra-curriculars" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Extra Curriculars</h1>
+
+<ol>
+<li>
+<strong>Tennis</strong><br>
+-Represented the Hostel in Tennis General Championship at IITB. (2016)<br>
+-Represented Surat district at Gujarat State Ranking Tennis tournament. (2008)<br>
+-Reached quarterfinal in Freshmen Tennis Open at IITB. (2015)</li>
+<li>
+<strong>Basketball</strong><br>
+-State level Basketball player representing Surat district. (2012)<br>
+</li>
+<li>
+<strong>Fine Arts</strong><br>
+-Secured 'A' Grade in Elementary and Intermediate Drawing Grade Examination. (2008-09)</li>
+<li>
+<strong>Music</strong><br>
+-Reached Visharad (Fifth year) in Vocal Indian Classical Music. (2010)<br>
+-Passionate about playing keyboard.</li>
+<li>
+<strong>Interests</strong><br>
+-Passionate about trekking, travelling, athletics, book reading.</li>
+</ol>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/nimit1997/NimPro">Resume</a> is maintained by <a href="https://github.com/nimit1997">nimit1997</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
